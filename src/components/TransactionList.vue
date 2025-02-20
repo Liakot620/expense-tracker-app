@@ -122,7 +122,7 @@ const filteredTransactions = computed(() => {
   color: red;
 }
 .green {
-  color: green;
+  color: black;
 }
 
 table {
